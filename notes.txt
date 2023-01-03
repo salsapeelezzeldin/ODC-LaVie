@@ -1,0 +1,103 @@
+authentication - e commerce/mart - blogs - 
+
+- users
+--> admin, user, professional Engineer, shop/magazine
+● Email, 
+● Strong Password (Capital Letter-Small Letter-Special character and a number), 
+● Name (first-last) must not exceed 2 words, 
+● education, 
+● phone numbers[at lest two numbers], 
+● profile picture, 
+● country, ● city, ● location
+● qualification[beginner-advanced-professional]
+
+● shopping cart[], 
+● orders[
+    ● review (user name-Date-Rating-Review)
+], 
+● book marks/favorites [blogs or plants or seeds or magazines] 
+
+● community
+● own blogs/posts/questions [posts, people can comment and rate post in community]
+
+● Quizes
+● Rewards (vouchers, discounts, badges)
+● Notification
+
+	●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+● contact us user can contact the admins of the page to report any problem at the website
+● Learn more about the services, terms and privacy policy.
+● Signup then a confirmation message will be sent to the user account
+● Login using his/her Facebook account or Google account message will be sent to verify this account
+(D)● Login through email and password
+(D)● Change phone number or email
+● Change profile pictures 
+● Change Password
+(D)● Logout through his/her profile page
+● Forgot/reset password by verifying his email 
+(D)● After the authentication three different categories [beginner-advanced-professional]
+--> for the beginner level he needs some detailed information to help him through his journey(blogs)
+--> the quizzes for the beginners will be much easier that the quizzes for the professionals(quizzes)
+--> the suggested plants will be some easy plants they need less care than other plants to be an easy start(plants)
+--> the rewards of the beginners will not be like the rewards of the professionals as the professionals will get harder quizzes and this is to enhance the beginners to improve and to be professionals(rewards)
+● Quizzes 
+--> based on qualification 
+--> It will be MCQ quiz 1 question at a time 
+--> If the user answer was false the true answer must appear to him after he finishes the quiz
+--> The user can take up to two quizzes per day
+● Rewards
+--> when answers true they will get some points and will be transformed into money or discount
+● reviews 
+--> Users can rate their experience and write all the comments they have of the selling process whether the seeds and plants are good/bad or the items they bought came fast or not
+--> As a user I can see reviews of people and this section of review contains (user nameDate-Rating-Review)
+● book marks/favorites [favorites/bookmarked blogs or plants or seeds or magazines] 
+● shopping ●
+   (D)● shopping cart 
+    --> search through a variety of plants and seeds add them to cart 
+    --> or suggested items and add them to cart
+    --> favorites/bookmarked plants or seeds add them to cart
+   ● proceed shopping
+    --> confirm the items by adding 
+         (full name-location-email-contact numbers(at lest two numbers)-payment method (credit card or cash) 
+    --> An email with all the shopping details must be sent to the user with a code 
+    --> then the user must rewrite this code again at the website
+    --> There must be a process bar to let the user know in which phase his order is
+    --> points/money will be added at the shopping place at the final process of buying to get the user a discount
+● Search
+--> type the name of whatever he wants to find it
+--> search for all the categories of plants and seeds 
+--> search for a specific item through the category it belongs to or by the name of the product itself.
+--> search for any nearby shops that sell plants or seeds 
+--> search for blogs and topics about a specific plants (this part is the filtration of the search)
+--> The search will be filtered with the following 
+(Categories-plants-toolsseeds-shops-blogs-price range-whether it is easy/medium/hard to grow it)
+● Blogs
+--> written in details about a specific plant/seed/shop
+-->  user can rate the blog he read whether it is helpful or not and this rate will rank the blogs
+--> arranged based on their rates
+● Community
+--> there will be two chat boxes 
+    (one to talk with a professional and the other to communicate with people and ask general questions)
+--> ask professional engineers about specific questions or for a professional help if has a major problem 
+--> user will be able to write posts and people can comment and rate his post.
+● Notifications
+--> when someone write a comment on his post or replies to him 
+--> when the professional engineer answers for a specific question
+--> when his order proceeds from a phase to the other one
+--> user can clear all the notifications and can mark a notification as read or mark all the notifications as read.
+● Recommendations
+--> recommend some plants/seeds/shops to the user 
+--> based on his level and based on his search and bookmarked items
+● Nearby shops
+--> A list of all the nearby shops will be listed to the user with the type of product it sells whether seeds or plants.
+
+
+(D)- items/products(plants, seeds)
+- community
+- activities/Quizzes
+-blogs
+-question
+- suggestions  suggest to the user the best sellers of the plants 
+
+- admins 
+- have the authority to give users (vouchers, discount, badges) based on their activities through the application 
